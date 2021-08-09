@@ -1,0 +1,15 @@
+@font-face {
+	font-family: Roboto;
+	src: url(resources/fonts/Roboto-Regular.ttf);
+	}
+@font-face {
+	font-family: Poppins;
+	src: url(resources/fonts/Poppins-Regular.ttf);
+	}
+
+h1.temporarywait {
+	font-family: Roboto;
+	}
+p.temporarywait {
+	font-family: Poppins;
+	}
